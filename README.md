@@ -57,6 +57,7 @@ AI is used as a reasoning partner to compare these factors and help refine produ
 
 ## Product Documents
 
+- [AI product flow diagram](docs/AI_PRODUCT_FLOW_DIAGRAM.md)
 - [Product flow](docs/PRODUCT_FLOW.md)
 - [Low-altitude decision module](docs/LOW_ALTITUDE_DECISION_MODULE.md)
 - [Drone route constraints](docs/DRONE_ROUTE_CONSTRAINTS.md)
