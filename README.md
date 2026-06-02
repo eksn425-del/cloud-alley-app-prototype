@@ -2,6 +2,14 @@
 
 Mobile-first H5 service prototype for the Cloud Alley residential design project.
 
+## 中文项目简介
+
+**Cloud Alley App Prototype** 是一个面向低空智慧社区场景的移动端 H5 产品原型。它把住宅设计中的低空物流、阳台服务、社区节点和居民服务体验，转译成可交互的前端 Demo。
+
+这个项目不应过度包装成完整 AI 产品。它更适合表达为：**空间设计方案如何转化为用户可感知的服务产品原型**。AI 相关价值主要体现在前期低空路线、建筑间距、阳台尺度和社区服务效率之间的辅助决策逻辑。
+
+**适合投递方向：** 产品实习生 / AI + 空间服务产品 / H5 原型设计 / 低空经济场景产品。
+
 This public-clean repository shows the interactive app layer of a residential architecture project. The full architecture archive, raw design files, course materials, database experiments, and private deployment files are not included.
 
 ## Product Positioning
@@ -62,6 +70,7 @@ AI is used as a reasoning partner to compare these factors and help refine produ
 - [Low-altitude decision module](docs/LOW_ALTITUDE_DECISION_MODULE.md)
 - [Drone route constraints](docs/DRONE_ROUTE_CONSTRAINTS.md)
 - [Risk score demo](docs/RISK_SCORE_DEMO.md)
+- [中文 AI 产品实习定位](docs/AI_PRODUCT_INTERNSHIP_POSITIONING_CN.md)
 - [Interview talking points](docs/INTERVIEW_TALKING_POINTS.md)
 
 ## Quick Start
